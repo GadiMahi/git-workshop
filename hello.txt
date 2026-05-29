@@ -1,1 +1,2 @@
 Hello from the Git & GitHub workshop!
+Hello from 2
